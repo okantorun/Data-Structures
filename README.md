@@ -6,7 +6,7 @@ Assignment  | Language | Description
 [HW2](https://github.com/okantorun/Data-Structures/tree/main/hw2)  | Java | Asymptotic Notations and Time Complexity problems
 [HW3](https://github.com/okantorun/Data-Structures/tree/main/hw3)  | Java | Implementing the same system in HW1 with the use of ArrayList, LinkedList, HybridList and calculating their Time Complexity
 [HW4](https://github.com/okantorun/Data-Structures/tree/main/hw4)  | Java | __Part1:__ Implement desired properties to the Heap structure __Part2:__  Implement  BSTHeapTree class
-[HW5](https://github.com/okantorun/Data-Structures/tree/main/hw5)  | Java | __Part1:__ Implement custom iterator class __MapIterator__ for HashMap __Part2:__  Different HashMap implementations and calculating their efficiency 
+[HW5](https://github.com/okantorun/Data-Structures/tree/main/hw5)  | Java | __Part1:__ Implement custom iterator class called __MapIterator__ for HashMap __Part2:__  Different HashMap implementations and calculating their efficiency 
 [HW6](https://github.com/okantorun/Data-Structures/tree/main/hw6)  | Java | E-Shopping application
 [HW7](https://github.com/okantorun/Data-Structures/tree/main/hw7)  | Java | BBST problems and applications
 ## Purpose of the course
